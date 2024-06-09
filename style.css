@@ -1,0 +1,22 @@
+body{
+    background: #dff2eb;
+}
+header{
+    background: #41856b; 
+    height: 75px;
+}
+img.logo-text
+{
+    margin-left: center;
+}
+header .logo
+{
+    float: left;
+}
+header ul{
+    float: right;
+}
+header .menu-toggle
+{
+    display: none;
+}
